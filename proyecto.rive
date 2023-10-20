@@ -1,0 +1,117 @@
++ hola
+- ¡Hola! ¿En qué puedo ayudarte?
+- ¡Hola!, soy un robot ¿En qué puedo ayudarte?
+
++ hey
+@ hola
++ hay alguien
+@ hola
+
+
++ [*] (solicitar trabajo|solicitud de trabajo) [*]
+- <bot solicitar>
+
++ [*](requisitos para trabajar|condiciones para trabajar)[*]
+- <bot requisitos>
+
++ [*](salario del trabajo|cuanto es el salario|cuanto pagan por el trabajo|cuanto ganare)[*]
+- Contamos con un salario de S/1.200 para tiempo completo\n
+^ pero puedes contar con comisiones depende de las ventas que realices.\n
+
++ [*](comisiones|comisiona|comision|comisionar)[*]
+- Esto es depende de las ventas que tengas diarias\n
+^ pero se podria dar un promedio de por cada venta concretada\n
+^ tendrias un 0.5% de ganancia.\n
+
++ [*](responsabilidades|responsabilidades que tendre|obligaciones|tareas|funciones|encargos)[*]
+- <bot funciones>
+
++ [*] (consideracion| condicion en puesto de supervisor call center)
+- <bot condicionPuesto>
+
++ [*](telefono|celular|cel)[*]
+- Para conversar con un supervisor al número: 999444111
+
++ [*] (horas|tiempo de trabajo) [*]
+- El horario de trabajo puede variar, pero a menudo incluye turnos rotativos\n
+que pueden abarcar las 24 horas del dia el f. Permite entender a clientes en 
+diferentes zonas horarias.
+
+
+// + que habilidades son importantes para trabajar en un call center
+// - Las habilidades importantes incluyen la empatía, la paciencia, la habilidad de comunicación verbal y escrita, la resolucion de problemas y la capacidad de trabajar bajo presion.
+
+// + puedo trabajar en un call center si no tengo experiencia previa
+// - Si, muchas empresas de call center ofrecen oportunidades para candidatos sin experiencia. Puedes postularte para puestos de nivel de entrada y recibir capacitacion en el trabajo.
+
+// + como puedo prepararme para una entrevista en un call center
+// - Para prepararte para una entrevista en un call center, investiga sobre la empresa, practica tus habilidades de comunicacion y considera como lidiarias con situaciones desafiantes.
+
+// + que beneficios suelen ofrecer las empresas de call center
+// - Los beneficios varian segun la empresa, pero a menudo incluyen seguro medico, oportunidades de desarrollo profesional y bonos por desempeno.
+
+// + cual es el promedio de rotación de personal del call center
+// - La rotación de personal en un call center puede variar, pero en promedio, la industria experimenta una rotación anual del personal que oscila entre el 30% y el 45%. Esto puede variar según factores como la ubicación y las condiciones laborales.
+
+// + Existen oportunidades de crecimiento profesional en el call center
+// - Sí, en la mayoría de los call centers, existen oportunidades para el crecimiento profesional. Puedes comenzar como agente de call center y luego ascender a roles de liderazgo, supervisión o especialización, dependiendo de tu desempeño y experiencia.
+
+// + cuales son algunas métricas clave que se utilizan para evaluar el desempeño de los agentes de un call center
+// - Algunas métricas clave para evaluar el desempeño de los agentes de call center incluyen el tiempo promedio de atención de llamadas, la satisfacción del cliente, el tiempo de resolución de problemas y el cumplimiento de objetivos de ventas, entre otros.
+
+// + que tecnologías suelen utilizarse en el call center para gestionar las interacciones con los clientes
+// - En un call center, se utilizan tecnologías como sistemas de gestión de relaciones con el cliente (CRM), software de marcación automática, grabación de llamadas, chat en línea y sistemas de tickets para rastrear y gestionar las interacciones con los clientes.
+
+// + Cuál es el porcentaje típico de incentivos basados en el desempeño en el salario de un agente de call center
+// - El porcentaje de incentivos basados en el desempeño en el salario de un agente de call center puede variar, pero suele oscilar entre el 5% y el 15% del salario base, dependiendo de la empresa y los logros individuales.
+
+// + Qué diferencias hay entre un call center de ventas y uno de atención al cliente en términos de responsabilidades laborales
+// - En un call center de ventas, los agentes se centran en la venta de productos o servicios, mientras que en un call center de atención al cliente, se enfocan en brindar asistencia y resolver problemas. Las responsabilidades pueden variar en función de estos objetivos.
+
+// + cual es el impacto de la tecnología de automatización en la industria de los call centers
+// - La tecnología de automatización ha tenido un gran impacto en la industria de los call centers al mejorar la eficiencia, reducir costos y permitir una atención al cliente más rápida. Esto incluye chatbots, respuestas automáticas y rutas de llamadas automatizadas.
+
+// + cual es la importancia de la formación continua para los agentes de un call center
+// - La formación continua es esencial en un call center, ya que permite a los agentes mantenerse actualizados con las políticas de la empresa, mejorar sus habilidades de atención al cliente y adaptarse a nuevas tecnologías. Puede ser clave para el éxito a largo plazo en la industria.
+
+// +es posible enviar mi corriculum a las industrias de call centers
+// -La forma de enviar tu curriculum a la oferta laboral, es necesario ponerte en contacto con la empresa y solicitar informacion sobre el puesto y si aun continua activo
+
+
++ adios
+- ¡Hasta luego! Si tienes mas preguntas, no dudes en preguntar.
+
++ *
+- Recuerda que soy un robot, me podrías preguntar de otra forma
+- Intenta hacer tu pregunta de otra manera.
+
+//variables 
+
+! var requisitos = -
+^ 1. Contar con educación universitario en curso o carreras de administración y afines.\n
+^ 2. Habilidades de comunicación.\n
+^ 3. Sin experiencia previa.\n
+^ 4. Habilidades de persuasión.\n
+^ 5. Disponibilidad horaria.\n
+
+! var funciones = -
+^ Tus funciones como operador seran las siguientes:\n
+^ 1. Recepcionar llamadas.\n
+^ 2. Realizar seguimiento a tus ventas.\n 
+^ 3. Ser proactivo y convincente a la hora de gestionar tus llamadas.\n
+^ 4. Ser puntual y ser decisivo en la toma de decisiones. \n
+
+! var solicitar = -
+^ Para solicitar un trabajo en el call center de Movistar, debes:\n
+^ 1. Visitar nuestro sitio web: https://ayuda.movistar.com.ar/pregunta/quiero-trabajar-en-movistar.html \n
+^ 2. Dar click en "esta pagina", en el apartado de : Conoce las oportunidades laborales de Movistar en esta página. \n
+^ 2. Busca tu puesto por palabra clave y/o ciudad. \n
+^ 3. Allí encontrarás información sobre cómo enviar tu solicitud en línea.\n
+
+! var condicionPuesto = -
+^ Generalmente se requieren los siguientes requisitos para el puesto de supervisor de call center:\n
+^ 1. Experiencia previa en un puesto de agente de servicio al cliente.\n
+^ 2. Habilidades de liderazgo y capacidad para gestionar equipos.\n
+^ 3. conocimiento de metricas de redimiento y seguimiento de llamadas.\n
+^ 4. hablidad para solucionar confictos y toma de decisiones inmediatas.\n
+^ 5. comunicacion efectiva y habiliades de capacitacion con el equipo.\n
