@@ -1,3 +1,5 @@
+//reglas
+
 + hola
 - ¡Hola! ¿En qué puedo ayudarte?
 - ¡Hola!, soy un robot ¿En qué puedo ayudarte?
@@ -8,20 +10,18 @@
 @ hola
 
 
-+ [*] (solicitar trabajo|solicitud de trabajo) [*]
++ [*] (solicitar trabajo|solicitud de trabajo|solicitar|solicitud) [*]
 - <bot solicitar>
 
-+ [*](requisitos para trabajar|condiciones para trabajar)[*]
++ [*](requisitos para trabajar|condiciones para trabajar|requisitos)[*]
 - <bot requisitos>
 
-+ [*](salario del trabajo|cuanto es el salario|cuanto pagan por el trabajo|cuanto ganare)[*]
++ [*](salario del trabajo|cuanto es el salario|cuanto pagan por el trabajo|cuanto ganare|salario|sueldo|remuneracion|pago|ganancia)[*]
 - Contamos con un salario de S/1.200 para tiempo completo\n
 ^ pero puedes contar con comisiones depende de las ventas que realices.\n
 
 + [*](comisiones|comisiona|comision|comisionar)[*]
-- Esto es depende de las ventas que tengas diarias\n
-^ pero se podria dar un promedio de por cada venta concretada\n
-^ tendrias un 0.5% de ganancia.\n
+- <bot comision>
 
 + [*](responsabilidades|responsabilidades que tendre|obligaciones|tareas|funciones|encargos)[*]
 - <bot funciones>
@@ -29,55 +29,63 @@
 + [*] (consideracion| condicion en puesto de supervisor call center)
 - <bot condicionPuesto>
 
-+ [*](telefono|celular|cel)[*]
++ [*](telefono|celular|cel) [*]
 - Para conversar con un supervisor al número: 999444111
 
-+ [*] (horas|tiempo de trabajo) [*]
-- El horario de trabajo puede variar, pero a menudo incluye turnos rotativos\n
-que pueden abarcar las 24 horas del dia el f. Permite entender a clientes en 
-diferentes zonas horarias.
++ [*] (horas|tiempo de trabajo|horario) [*]
+- <bot horarioTrabajo>
 
++ [*] (habilidades|destreza para trabajar) [*]
+- Es importante la empatia, paciencia, comunicacion con el equipo ante\n
+^ posibles problemas en el trabajo\n
 
-// + que habilidades son importantes para trabajar en un call center
-// - Las habilidades importantes incluyen la empatía, la paciencia, la habilidad de comunicación verbal y escrita, la resolucion de problemas y la capacidad de trabajar bajo presion.
++ [*] (experiencia|conocimiento previo|conocimiento|practica) [*]
+- Para este trabajo, no se requiere experiencia previa\n
 
-// + puedo trabajar en un call center si no tengo experiencia previa
-// - Si, muchas empresas de call center ofrecen oportunidades para candidatos sin experiencia. Puedes postularte para puestos de nivel de entrada y recibir capacitacion en el trabajo.
++ [*] (preparacion|disposicion) [*]
+- <bot preparacion>
 
-// + como puedo prepararme para una entrevista en un call center
-// - Para prepararte para una entrevista en un call center, investiga sobre la empresa, practica tus habilidades de comunicacion y considera como lidiarias con situaciones desafiantes.
++ [*] (beneficios|beneficio|bienes que ofrecen la empresa) [*]
+- <bot beneficios>
 
-// + que beneficios suelen ofrecer las empresas de call center
-// - Los beneficios varian segun la empresa, pero a menudo incluyen seguro medico, oportunidades de desarrollo profesional y bonos por desempeno.
++ [*] (rotacion|giro de personal) [*]
+- puede variar, por disponibilidad de personal, factores de la empresa\n
+^ rotacion anual de personal oscila entre 30% a 45% de ello\n
 
-// + cual es el promedio de rotación de personal del call center
-// - La rotación de personal en un call center puede variar, pero en promedio, la industria experimenta una rotación anual del personal que oscila entre el 30% y el 45%. Esto puede variar según factores como la ubicación y las condiciones laborales.
++ [*] (crecimiento|ampliacion) [*]
+-  existe oportunidades de crecimiento subiendo de posicion dependiendo tu desempeño\n
 
-// + Existen oportunidades de crecimiento profesional en el call center
-// - Sí, en la mayoría de los call centers, existen oportunidades para el crecimiento profesional. Puedes comenzar como agente de call center y luego ascender a roles de liderazgo, supervisión o especialización, dependiendo de tu desempeño y experiencia.
++ [*] (versificacion|metrica de evaluacion de desempeno|evaluacion) [*]
+- La evaluacion radica en los siguientes puntos\n
+^ 1.tiempo promedio de atencion al cliente\n
+^ 2.satisfacción cliente\n
+^ 3.tiempo de resolucion de problema\n
+^ 4.cumplimiento de obejtivos\n
 
-// + cuales son algunas métricas clave que se utilizan para evaluar el desempeño de los agentes de un call center
-// - Algunas métricas clave para evaluar el desempeño de los agentes de call center incluyen el tiempo promedio de atención de llamadas, la satisfacción del cliente, el tiempo de resolución de problemas y el cumplimiento de objetivos de ventas, entre otros.
++ [*] (gestion de interaccion con clientes) [*]
+- Se utilizan los siguientes sistemas de gestion:\n
+^ 1.sistema de marcacion automatica\n
+^ 2.grabacion de llamadas\n
+^ 3.chat en linea con el cliente\n
 
-// + que tecnologías suelen utilizarse en el call center para gestionar las interacciones con los clientes
-// - En un call center, se utilizan tecnologías como sistemas de gestión de relaciones con el cliente (CRM), software de marcación automática, grabación de llamadas, chat en línea y sistemas de tickets para rastrear y gestionar las interacciones con los clientes.
++ [*] (diferencias|desigualdad|diferente|disimilitud entre call center ventas y atencion al cliente) [*]
+- call center ventas centra en la venta y servicio de productos\n
+^ y servicio al cliente se centra en dar soporte a problemas\n
 
-// + Cuál es el porcentaje típico de incentivos basados en el desempeño en el salario de un agente de call center
-// - El porcentaje de incentivos basados en el desempeño en el salario de un agente de call center puede variar, pero suele oscilar entre el 5% y el 15% del salario base, dependiendo de la empresa y los logros individuales.
++ [*] (impacto|impresion de la tecnologia en la industria call center|vision|mision) [*]
+- la automatizacion de la tecnologia a tenido un impacto grande mejorando\n
+^ la eficiencia, reduccion de costos y atencion al cliente mas eficiente\n
 
-// + Qué diferencias hay entre un call center de ventas y uno de atención al cliente en términos de responsabilidades laborales
-// - En un call center de ventas, los agentes se centran en la venta de productos o servicios, mientras que en un call center de atención al cliente, se enfocan en brindar asistencia y resolver problemas. Las responsabilidades pueden variar en función de estos objetivos.
++ [*] (importancia|valor|consideracion de la formacion para agentes de un call center) [*]
+-  es escencial debido a que permite mantenerse actualizados a los agentes de call center\n
 
-// + cual es el impacto de la tecnología de automatización en la industria de los call centers
-// - La tecnología de automatización ha tenido un gran impacto en la industria de los call centers al mejorar la eficiencia, reducir costos y permitir una atención al cliente más rápida. Esto incluye chatbots, respuestas automáticas y rutas de llamadas automatizadas.
++ [*] (envio|mandar de curriculum|cv|curriculum) [*]
+- La forma de enviar tu curriculum a la oferta laboral\n
+^ es necesario ponerte en contacto con el supervisor pidiendo su celular por este bot\n
+^ sobre el puesto y si aun continua activo\n
 
-// + cual es la importancia de la formación continua para los agentes de un call center
-// - La formación continua es esencial en un call center, ya que permite a los agentes mantenerse actualizados con las políticas de la empresa, mejorar sus habilidades de atención al cliente y adaptarse a nuevas tecnologías. Puede ser clave para el éxito a largo plazo en la industria.
-
-// +es posible enviar mi corriculum a las industrias de call centers
-// -La forma de enviar tu curriculum a la oferta laboral, es necesario ponerte en contacto con la empresa y solicitar informacion sobre el puesto y si aun continua activo
-
-
++ [*] (programar|planificar cita con asesor de call center|cita|entrevista) [*]
+- <bot programarCita>
 + adios
 - ¡Hasta luego! Si tienes mas preguntas, no dudes en preguntar.
 
@@ -85,7 +93,31 @@ diferentes zonas horarias.
 - Recuerda que soy un robot, me podrías preguntar de otra forma
 - Intenta hacer tu pregunta de otra manera.
 
+
 //variables 
+
+! var preparacion = - 
+^ aqui te muestro algunas pautas que debes seguir para ingresar a movistar:\n
+^ 1. Comunicate con un asesor\n
+^ 2. ejercicio o habilidades para comucacion con clientes\n
+^ 3. paciencia y comprencion ante posibles problemas\n
+
+! var programarCita = -
+^ puedes programar una cita teniendo en cuenta lo siguiente\n
+^ 1.Ingresar a nuestra pagina web movistar.com\solicitud\n
+^ 2.Acercarte a nuestas oficinas en jr. Prado 138\n
+^ 3.Ingresar en este chat 'celular de supervisor', para comunicarte con un supervisor\n
+
+! var horarioTrabajo = -
+^ El horario de trabajo puede variar, pero a menudo incluye turnos rotativos\n
+^ Part-Time: trabajando tiempo medio intercalando entre turno mañana y tarde.\n
+^ Full-Time: un horario de tiempo completo abarcando hasta tiempos extra.\n
+^ Para mas información comunicarse al número del asesor para una entrevista\n
+
+! var comision = -
+^ Esto es depende de las ventas que tengas diarias\n
+^ pero se podria dar un promedio de por cada venta concretada\n
+^ tendrias un 0.5% de ganancia.\n
 
 ! var requisitos = -
 ^ 1. Contar con educación universitario en curso o carreras de administración y afines.\n
@@ -93,6 +125,12 @@ diferentes zonas horarias.
 ^ 3. Sin experiencia previa.\n
 ^ 4. Habilidades de persuasión.\n
 ^ 5. Disponibilidad horaria.\n
+
+! var beneficios = -
+^ los beneficios son:
+^ seguro medico, experiencia laboral\n
+^ libertad de comunicacion entre trabajadores ante problemas,\n
+^ bono, liquidacion.\n
 
 ! var funciones = -
 ^ Tus funciones como operador seran las siguientes:\n
