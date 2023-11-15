@@ -34,7 +34,7 @@ class Chat:
         reply = reply.replace("\\n", "\\\n")
         reply = reply.replace("\\", "")
         self.entRespuesta.insert(END,"Tu: "+self.entPregunta.get()+"\n\n")
-        self.entRespuesta.insert(END,"Bot: "+reply+"\n")
+        self.entRespuesta.insert(END,"Movistar: "+reply+"\n")
         self.entPregunta.delete(0,END)
 
 if __name__=="__main__":
