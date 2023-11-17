@@ -86,6 +86,7 @@
 
 + [*] (programar|planificar cita con asesor de call center|cita|entrevista) [*]
 - <bot programarCita>
+
 + adios
 - ¡Hasta luego! Si tienes mas preguntas, no dudes en preguntar.
 
@@ -134,6 +135,85 @@
 // -Descarga nuestra aplicación móvil para acceder fácilmente a tu ^ cuenta, realizar pagos, verificar el uso de datos y más. La 
 // ^ aplicación es una herramienta conveniente para gestionar tus 
 // ^ servicios de Movistar desde tu dispositivo móvil.
+
+
+//añadido por Saul 
+
++ [*](cultura|cultura empersarial|)[*]
+- Te muestro los detalles de nuestra cultura empresarial:\n
+^ 1.En nuestra empresa, fomentamos la innovación y la creatividad.\n
+^ 2.Creemos en el poder del trabajo en equipo.\n
+^ 3.La satisfacción del cliente es nuestra prioridad.\n
+^ 4.Nos comprometemos a apoyar el desarrollo profesional de nuestros empleados\n
+^ 5.Nos comprometemos a apoyar el desarrollo profesional de nuestros empleados\n
+^ 6.Nos comprometemos a apoyar el desarrollo profesional de nuestros empleados\n
+
++[*](Preparación Entrevista | Consejos | Idoneidad)[*]
+- Antes de la entrevista, es crucial prepararse adecuadamente. 
+^ Asegúrate de conocer la empresa, practica respuestas a preguntas comunes 
+^ y destaca experiencias que demuestren tu idoneidad para el puesto. 
+^ Estos consejos te ayudarán a destacar durante el proceso de ^ selección.
+
++[*](Preguntas Típicas | Ejemplos | Cuestionamientos)[*]
+- Durante una entrevista, es probable que te enfrentes a preguntas comunes.
+^ Prepárate con ejemplos concretos que demuestren tus habilidades y experiencias relevantes.
+^ Practicar respuestas a estos cuestionamientos te permitirá responder de manera efectiva y transmitir confianza.
+
++[*](Estrategias Entrevista | Técnicas | Abordar preguntas difíciles)[*]
+- Abordar preguntas difíciles con estrategias efectivas es fundamental.
+^ Utiliza técnicas que destaquen tus habilidades y experiencia, 
+^ transformando desafíos en oportunidades para mostrar tu capacidad 
+^ de resolución de problemas y adaptabilidad.
+
++[*](Investigación Empresa | Conocimiento | Valores)[*]
+- Antes de la entrevista, investiga a fondo la empresa. Conoce sus valores, 
+^ proyectos clave y logros recientes. Demostrar este conocimiento no solo 
+^ resalta tu interés, sino que también muestra que estás alineado con la cultura de la empresa.
+
++[*](Habilidades Experiencia | Destacar | Requisitos)[*]
+- Durante la entrevista, destaca habilidades y experiencias 
+^ que coincidan con los requisitos del trabajo. Proporciona ejemplos 
+^ específicos de proyectos anteriores que demuestren tu capacidad para enfrentar los desafíos del puesto.
+
++[*](Ejemplos Logros | Logros destacados | Formato)[*]
+- Compartir ejemplos concretos de logros destacados es esencial. 
+^ Utiliza un formato claro al describir cómo tus logros
+^ pasados están alineados con los requisitos del trabajo. 
+^ Esto proporciona evidencia concreta de tu capacidad para lograr resultados positivos.
+
++[*](Preguntas Entrevistador | Demostrar | Final de la entrevista)[*]
+- Al final de la entrevista, haz preguntas al entrevistador para demostrar
+^ tu interés. Preguntas inteligentes y reflexivas sobre
+^ la empresa y el puesto pueden dejar una impresión duradera y 
+^ mostrar que has hecho tu tarea.
+
++[*](Manejo Presión | Calma | Estrategias)[*]
+- Mantener la calma frente a situaciones de presión es clave. Desarrolla
+^ estrategias para manejar situaciones desafiantes, destacando cómo
+^ tu enfoque proactivo y habilidades de gestión te permiten enfrentar
+^ presiones con tranquilidad.
+ 
++[*](Follow-up Entrevista | Correo de agradecimiento | Importancia)[*]
+- Después de la entrevista, envía un correo de agradecimiento. 
+^ Destaca la importancia del seguimiento, expresando gratitud y 
+^ reiterando tu interés en el puesto. Esto muestra profesionalismo
+^ y refuerza tu conexión con la empresa.
+ 
++[*](Desafíos Profesionales | Superar desafíos | Situaciones difíciles)[*]
+- Hablar sobre cómo has superado desafíos profesionales anteriores es una
+^ oportunidad. Proporciona ejemplos de situaciones difíciles, enfatizando cómo aprendiste
+^ y creciste a partir de esas experiencias.
+
++[*](Adaptabilidad Flexibilidad | Habilidades adaptativas | Entrevista)[*]
+- Demuestra tu adaptabilidad y flexibilidad durante la entrevista. Destaca
+^ situaciones en las que te has adaptado con éxito a cambios 
+^ y cómo estas habilidades te hacen un candidato valioso.
+
++[*](Logros Largo Plazo | Metas profesionales | Destacar)[*]
+- Al compartir logros a largo plazo y metas profesionales, enfócate 
+^ en aspectos que muestren tu compromiso con el crecimiento
+^ y desarrollo. Destaca cómo tus metas se alinean con la visión a largo plazo de la empresa.
+
 
 
 //variables 
