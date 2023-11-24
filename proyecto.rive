@@ -10,6 +10,8 @@
 @ hola
 
 
+
+ // corregido
 + [*] (solicitar trabajo|solicitud de trabajo|solicitar|solicitud) [*]
 - <bot solicitar>
 
@@ -18,7 +20,7 @@
 
 + [*](salario del trabajo|cuanto es el salario|cuanto pagan por el trabajo|cuanto ganare|salario|sueldo|remuneracion|pago|ganancia)[*]
 - Contamos con un salario de S/1.200 para tiempo completo\n
-^ pero puedes contar con comisiones depende de las ventas que realices.\n
+^, pero puedes contar con comisiones dependiendo de las ventas que realices.\n
 
 + [*](comisiones|comisiona|comision|comisionar)[*]
 - <bot comision>
@@ -36,7 +38,7 @@
 - <bot horarioTrabajo>
 
 + [*] (habilidades|destreza para trabajar) [*]
-- Es importante la empatia, paciencia, comunicacion con el equipo ante\n
+- Es importante la empatía, paciencia, comunicación con el equipo ante\n
 ^ posibles problemas en el trabajo\n
 
 + [*] (experiencia|conocimiento previo|conocimiento|practica) [*]
@@ -49,179 +51,184 @@
 - <bot beneficios>
 
 + [*] (rotacion|giro de personal) [*]
-- puede variar, por disponibilidad de personal, factores de la empresa\n
-^ rotacion anual de personal oscila entre 30% a 45% de ello\n
+- Puede variar, por disponibilidad de personal, factores de la empresa\n
+^ rotación anual de personal oscila entre 30% a 45% de ello\n
 
 + [*] (crecimiento|ampliacion) [*]
--  existe oportunidades de crecimiento subiendo de posicion dependiendo tu desempeño\n
+- Existe oportunidades de crecimiento subiendo de posición dependiendo tu desempeño\n
 
 + [*] (versificacion|metrica de evaluacion de desempeno|evaluacion) [*]
-- La evaluacion radica en los siguientes puntos\n
-^ 1.tiempo promedio de atencion al cliente\n
-^ 2.satisfaccion cliente\n
-^ 3.tiempo de resolucion de problema\n
-^ 4.cumplimiento de obejtivos\n
+- La evaluación radica en los siguientes puntos\n
+^ 1. Tiempo promedio de atención al cliente\n
+^ 2. Satisfacción cliente\n
+^ 3. Tiempo de resolución de problema\n
+^ 4. Cumplimiento de objetivos\n
 
 + [*] (gestion de interaccion con clientes) [*]
-- Se utilizan los siguientes sistemas de gestion:\n
-^ 1.sistema de marcacion automatica\n
-^ 2.grabacion de llamadas\n
-^ 3.chat en linea con el cliente\n
+- Se utilizan los siguientes sistemas de gestión:\n
+^ 1. Sistema de marcación automática\n
+^ 2. Grabación de llamadas\n
+^ 3. Chat en línea con el cliente\n
 
 + [*] (diferencias|desigualdad|diferente|disimilitud entre call center ventas y atencion al cliente) [*]
-- call center ventas centra en la venta y servicio de productos\n
+- Call center ventas centra en la venta y servicio de productos\n
 ^ y servicio al cliente se centra en dar soporte a problemas\n
 
 + [*] (impacto|impresion de la tecnologia en la industria call center|vision|mision) [*]
-- la automatizacion de la tecnologia a tenido un impacto grande mejorando\n
-^ la eficiencia, reduccion de costos y atencion al cliente mas eficiente\n
+- La automatización de la tecnología ha tenido un impacto grande mejorando\n
+^ la eficiencia, reducción de costos y atención al cliente más eficiente\n
 
 + [*] (envio|mandar de curriculum|cv|curriculum) [*]
 - La forma de enviar tu curriculum a la oferta laboral\n
 ^ es necesario ponerte en contacto con el supervisor pidiendo su celular por este bot\n
-^ sobre el puesto y si aun continua activo\n
+^ sobre el puesto y si aún continúa activo\n
 
 + [*] (programar|planificar cita con asesor de call center|cita|entrevista) [*]
 - <bot programarCita>
 
 + adios
-- Hasta luego! Si tienes mas preguntas, no dudes en preguntar.
+- Hasta luego! Si tienes mas dudas, no dudes en preguntar.
 
 + *
 - Recuerda que soy un robot, me podrias preguntar de otra forma
 - Intenta hacer tu pregunta de otra manera.
 
+
+
 + [*] (beneficios|perks) [*]
 -Algunos beneficios de trabajar en Movistar incluyen descuentos
-^en servicios, oportunidades de desarrollo profesional y un
-^ambiente colaborativo.
+^ en servicios, oportunidades de desarrollo profesional y un
+^ ambiente colaborativo.
 
 + [*] (horario|turno) [*]
--El horario de trabajo en Movistar puede variar segun el
-^departamento, pero generalmente es de 8:00am a 6:00pm.
+-El horario de trabajo en Movistar puede variar según él
+^ departamento, pero generalmente es de 8:00am a 6:00pm.
 
 + [*] (capacitacion|entrenamiento) [*]
--La capacitacion para nuevos empleados se lleva a cabo a traves
-^de sesiones practicas y materiales online. Puedes encontrar mas
-^informacion en el portal interno de la empresa.
+-La capacitación para nuevos empleados se lleva a cabo a través
+^ de sesiones prácticas y materiales online. Puedes encontrar más
+^ Información en el portal interno de la empresa.
 
 + [*] (uniforme) [*]
 -El uniforme requerido para trabajar en Movistar consta de polo
-^entregado por la empresa. Asegurate de seguir las pautas de
-^vestimenta.
+^ entregado por la empresa. Asegúrate de seguir las pautas de
+^ vestimenta.
 
 + [*] (vacaciones|descanso) [*]
--Las politicas de vacaciones varian, pero generalmente se
-^pueden solicitar a traves del sistema interno de recursos
-^humanos con anticipacion.
+-Las políticas de vacaciones varían, pero generalmente sé
+^ pueden solicitar a través del sistema interno de recursos
+^ humanos con anticipación.
 
 + [*] (problema|incidente) [*]
--Ante cualquier problema o incidente en el trabajo, comunicate
-^con tu supervisor o utiliza el sistema de reporte interno.
+-Ante cualquier problema o incidente en el trabajo, comunícate
+^ con tu supervisor o utiliza el sistema de reporte interno.
 
 + [*] (salario|sueldo) [*]
 -Los salarios en Movistar son competitivos y se pagan de manera
-^quincenal/mensual. Puedes encontrar detalles especificos en tu
-^contrato laboral.
+^ quincenal/mensual. Puedes encontrar detalles específicos en tú
+^ contrato laboral.
 
 + [*] (seguridad|normas) [*]
--La seguridad en el lugar de trabajo es primordial. Asegurate
-^de seguir todas las normas y procedimientos establecidos para
-^garantizar un entorno seguro para todos.
+-La seguridad en el lugar de trabajo es primordial. Asegúrate
+^ de seguir todas las normas y procedimientos establecidos para
+^ garantizar un entorno seguro para todos.
 
 + [*] (evaluacion|desempeno) [*]
 -Las evaluaciones de desempeño se llevan a cabo de manera
-^periodica para proporcionarte retroalimentacion y oportunidades
-^de crecimiento. Puedes revisar tus resultados en el sistema de
-^recursos humanos.
+^ periódica para proporcionarte retroalimentación y oportunidades
+^ de crecimiento. Puedes revisar tus resultados en el sistema de
+^ recursos humanos.
 
 + [*] (beneficios|seguros) [*]
--Movistar ofrece beneficios adicionales, como planes de seguro ^medico, dental y de vida. Puedes obtener mas detalles en la
-^seccion de beneficios de tu portal interno.
+-Movistar ofrece beneficios adicionales, como planes de seguro, 
+^ medico, dental y de vida. Puedes obtener más detalles en la
+^ sección de beneficios de tu portal interno.
 
 + [*] (vacantes|puestos disponibles) [*]
 -Para conocer las vacantes y puestos disponibles en Movistar,
-^isita regularmente el portal de empleo o comunicate con
-^Recursos Humanos para obtener informacion actualizada.
+^ Visita regularmente el portal de empleo o comunícate con
+^ Recursos Humanos para obtener información actualizada.
 
 + [*] (formacion|cursos) [*]
--Ademas del entrenamiento inicial, Movistar brinda
-^oportunidades de formacion continua y cursos especializados
-^para mejorar tus habilidades y conocimientos.
+-Además del entrenamiento inicial, Movistar brinda
+^ oportunidades de formación continua y cursos especializados
+^ para mejorar tus habilidades y conocimientos.
 
 + [*] (reunion|junta) [*]
 -Las reuniones de equipo se llevan a cabo regularmente para
-^mantener una comunicacion efectiva. Las fechas y detalles se
-^publican en el calendario compartido del equipo.
+^ mantener una comunicación efectiva. Las fechas y detalles sé
+^ publican en el calendario compartido del equipo.
 
 + [*] (turno nocturno) [*]
--Si trabajas en un turno nocturno, asegurate de seguir las
-^politicas y procedimientos especificos establecidos para
-^garantizar un entorno seguro y eficiente.
+-Si trabajas en un turno nocturno, asegúrate de seguir las
+^ políticas y procedimientos específicos establecidos para
+^ garantizar un entorno seguro y eficiente.
 
 + [*] (licencia medica|permiso) [*]
--En caso de necesitar una licencia medica o permiso especial,
-^comunicate con Recursos Humanos y sigue el proceso establecido
-^para garantizar una gestion adecuada.
+-En caso de necesitar una licencia médica o permiso especial,
+^ comunícate con Recursos Humanos y sigue el proceso establecido
+^ para garantizar una gestión adecuada.
 
 + [*] (redes sociales) [*]
 -Sigue las redes sociales oficiales de Movistar para obtener
-^noticias, actualizaciones y oportunidades exclusivas de la
-^empresa.
+^ noticias, actualizaciones y oportunidades exclusivas de la
+^ empresa.
 
 + [*] (feedback|opinion) [*]
--Valoramos tu opinion. Si tienes sugerencias o comentarios,
-^puedes proporcionar feedback a traves del sistema de
-^retroalimentacion en el portal interno.
+-Valoramos tu opinión. Si tienes sugerencias o comentarios,
+^ puedes proporcionar feedback a través del sistema de
+^ retroalimentación en el portal interno.
 
 + [*] (proyecto especial|iniciativa) [*]
 -Participa en proyectos especiales e iniciativas para
-^contribuir al crecimiento y exito de Movistar. Mantente
-^informado sobre las oportunidades disponibles.
+^ contribuir al crecimiento y éxito de Movistar. Mantente
+^ informado sobre las oportunidades disponibles.
 
 + [*](planes|ofertas|servicios) [*]
--En Movistar, ofrecemos una variedad de planes y servicios para ^ adaptarnos a tus necesidades. Puedes explorar nuestras
-^ ultimas ofertas en nuestro sitio web o contactar a nuestro
-^ servicio al cliente para obtener informacion detallada.
+-En Movistar, ofrecemos una variedad de planes y servicios para 
+^ adaptarnos a tus necesidades. Puedes explorar nuestras
+^ últimas ofertas en nuestro sitio web o contactar a nuestro
+^ servicio al cliente para obtener información detallada.
 
 + [*](cobertura|disponibilidad) [*]
--Nuestra red de cobertura esta diseñada para brindarte la mejor
+-Nuestra red de cobertura está diseñada para brindarte la mejor
 ^ experiencia. Verifica la disponibilidad de nuestros servicios
-^ en tu area o descubre mas sobre nuestra cobertura en el mapa
+^ en tu área o descubre más sobre nuestra cobertura en el mapa
 ^ de cobertura en nuestro sitio web.
 
 + [*](soporte tecnico|ayuda tecnica) [*]
--Si necesitas asistencia tecnica, nuestro equipo de soporte
-^ esta disponible para ayudarte. Puedes comunicarte con
-^ nosotros a traves de nuestro chat en linea o llamar a nuestro
-^ servicio de atencion al cliente para resolver cualquier
-^ problema tecnico que puedas enfrentar.
+-Si necesitas asistencia técnica, nuestro equipo de soporte
+^ está disponible para ayudarte. Puedes comunicarte con
+^ nosotros a través de nuestro chat en línea o llamar a nuestro
+^ servicio de atención al cliente para resolver cualquier
+^ problema técnico que puedas enfrentar.
 
 + [*](promociones|descuentos) [*]
--Descubre las ultimas promociones y descuentos disponibles para
+-Descubre las últimas promociones y descuentos disponibles para
 ^ clientes de Movistar. Mantente al tanto de nuestras ofertas
-^ especiales para aprovechar al maximo tus servicios.
+^ especiales para aprovechar al máximo tus servicios.
 
 + [*](portabilidad|cambio de plan) [*]
--Si estas pensando en cambiar tu plan o portar tu numero a
-^ Movistar, podemos guiarte a traves del proceso. Obten
-^ informacion sobre los pasos necesarios y los beneficios de
+-Si estás pensando en cambiar tu plan o portar tu número a
+^ Movistar, podemos guiarte a través del proceso. Obtén
+^ información sobre los pasos necesarios y los beneficios de
 ^ unirte a Movistar.
 
 + [*](cultura|cultura empersarial)[*]
 - Te muestro los detalles de nuestra cultura empresarial:\n
-^ 1.En nuestra empresa, fomentamos la innovación y la creatividad.\n
-^ 2.Creemos en el poder del trabajo en equipo.\n
-^ 3.La satisfacción del cliente es nuestra prioridad.\n
-^ 4.Nos comprometemos a apoyar el desarrollo profesional de nuestros empleados\n
-^ 5.Nos comprometemos a apoyar el desarrollo profesional de nuestros empleados\n
-^ 6.Nos comprometemos a apoyar el desarrollo profesional de nuestros empleados\n
+^ 1. En nuestra empresa, fomentamos la innovación y la creatividad.\n
+^ 2. Creemos en el poder del trabajo en equipo.\n
+^ 3. La satisfacción del cliente es nuestra prioridad.\n
+^ 4. Nos comprometemos a apoyar el desarrollo profesional de nuestros empleados\n
+^ 5. Nos comprometemos a apoyar el desarrollo profesional de nuestros empleados\n
+^ 6. Nos comprometemos a apoyar el desarrollo profesional de nuestros empleados\n
 
 + [*] (preparacion entrevista|consejos|idoneidad) [*]
 - Antes de la entrevista, es crucial prepararse adecuadamente.
 ^ Asegúrate de conocer la empresa, practica respuestas a preguntas comunes
 ^ y destaca experiencias que demuestren tu idoneidad para el puesto.
-^ Estos consejos te ayudarán a destacar durante el proceso de ^ selección.
+^ Estos consejos te ayudarán a destacar durante el proceso de 
+^ selección.
 
 + [*](preguntas tipicas|ejemplos|cuestionamientos)[*]
 - Durante una entrevista, es probable que te enfrentes a preguntas comunes.
@@ -237,7 +244,7 @@
 + [*](investigacion empresa|conocimiento|valores)[*]
 - Antes de la entrevista, investiga a fondo la empresa. Conoce sus valores,
 ^ proyectos clave y logros recientes. Demostrar este conocimiento no solo
-^ resalta tu interés, sino que también muestra que estás alineado con la cultura de la empresa.
+^ resalta tu interés, si no que también muestra que estás alineado con la cultura de la empresa.
 
 + [*](habilidades experiencia|destacar|requisitos)[*]
 - Durante la entrevista, destaca habilidades y experiencias
