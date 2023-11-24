@@ -1,5 +1,4 @@
-//reglas
-
+// Reglas
 + hola
 - ¡Hola! ¿En qué puedo ayudarte?
 - ¡Hola!, soy un robot ¿En qué puedo ayudarte?
@@ -10,8 +9,6 @@
 @ hola
 
 
-
- // corregido
 + [*] (solicitar trabajo|solicitud de trabajo|solicitar|solicitud) [*]
 - <bot solicitar>
 
@@ -83,135 +80,128 @@
 ^ es necesario ponerte en contacto con el supervisor pidiendo su celular por este bot\n
 ^ sobre el puesto y si aún continúa activo\n
 
-+ [*] (programar|planificar cita con asesor de call center|cita|entrevista) [*]
++ [*] (programar|planificar cita con asesor de call center|cita) [*]
 - <bot programarCita>
 
 + adios
 - Hasta luego! Si tienes mas dudas, no dudes en preguntar.
 
 + *
-- Recuerda que soy un robot, me podrias preguntar de otra forma
+- Recuerda que soy un robot, me podrias preguntar de otra forma\n
 - Intenta hacer tu pregunta de otra manera.
 
-
-
 + [*] (beneficios|perks) [*]
--Algunos beneficios de trabajar en Movistar incluyen descuentos
-^ en servicios, oportunidades de desarrollo profesional y un
+-Algunos beneficios de trabajar en Movistar incluyen descuentos\n
+^ en servicios, oportunidades de desarrollo profesional y un\n
 ^ ambiente colaborativo.
 
 + [*] (horario|turno) [*]
--El horario de trabajo en Movistar puede variar según él
+- El horario de trabajo en Movistar puede variar según él\n
 ^ departamento, pero generalmente es de 8:00am a 6:00pm.
 
 + [*] (capacitacion|entrenamiento) [*]
--La capacitación para nuevos empleados se lleva a cabo a través
-^ de sesiones prácticas y materiales online. Puedes encontrar más
-^ Información en el portal interno de la empresa.
+- La capacitación para nuevos empleados se lleva a cabo a través\n
+^ de sesiones prácticas y materiales online. Puedes encontrar más\n
+^ Información en el portal interno de la empresa.\n
 
 + [*] (uniforme) [*]
--El uniforme requerido para trabajar en Movistar consta de polo
-^ entregado por la empresa. Asegúrate de seguir las pautas de
+- El uniforme requerido para trabajar en Movistar consta de polo\n
+^ entregado por la empresa. Asegúrate de seguir las pautas de\n
 ^ vestimenta.
 
 + [*] (vacaciones|descanso) [*]
--Las políticas de vacaciones varían, pero generalmente sé
-^ pueden solicitar a través del sistema interno de recursos
+-Las políticas de vacaciones varían, pero generalmente sé\n
+^ pueden solicitar a través del sistema interno de recursos\n
 ^ humanos con anticipación.
 
 + [*] (problema|incidente) [*]
--Ante cualquier problema o incidente en el trabajo, comunícate
-^ con tu supervisor o utiliza el sistema de reporte interno.
-
-+ [*] (salario|sueldo) [*]
--Los salarios en Movistar son competitivos y se pagan de manera
-^ quincenal/mensual. Puedes encontrar detalles específicos en tú
-^ contrato laboral.
+-Ante cualquier problema o incidente en el trabajo, comunícate\n
+^ con tu supervisor o utiliza el sistema de reporte interno.\n
 
 + [*] (seguridad|normas) [*]
--La seguridad en el lugar de trabajo es primordial. Asegúrate
-^ de seguir todas las normas y procedimientos establecidos para
+-La seguridad en el lugar de trabajo es primordial. Asegúrate\n
+^ de seguir todas las normas y procedimientos establecidos para\n
 ^ garantizar un entorno seguro para todos.
 
 + [*] (evaluacion|desempeno) [*]
--Las evaluaciones de desempeño se llevan a cabo de manera
-^ periódica para proporcionarte retroalimentación y oportunidades
-^ de crecimiento. Puedes revisar tus resultados en el sistema de
+-Las evaluaciones de desempeño se llevan a cabo de manera\n
+^ periódica para proporcionarte retroalimentación y oportunidades\n
+^ de crecimiento. Puedes revisar tus resultados en el sistema de\n
 ^ recursos humanos.
 
 + [*] (beneficios|seguros) [*]
--Movistar ofrece beneficios adicionales, como planes de seguro, 
-^ medico, dental y de vida. Puedes obtener más detalles en la
-^ sección de beneficios de tu portal interno.
+-Movistar ofrece beneficios adicionales, como planes de seguro, \n
+^ medico, dental y de vida. Puedes obtener más detalles en la\n
+^ sección de beneficios de tu portal interno.\n
 
 + [*] (vacantes|puestos disponibles) [*]
--Para conocer las vacantes y puestos disponibles en Movistar,
-^ Visita regularmente el portal de empleo o comunícate con
-^ Recursos Humanos para obtener información actualizada.
+-Para conocer las vacantes y puestos disponibles en Movistar,\n
+^ Visita regularmente el portal de empleo o comunícate con\n
+^ Recursos Humanos para obtener información actualizada.\n
 
 + [*] (formacion|cursos) [*]
--Además del entrenamiento inicial, Movistar brinda
-^ oportunidades de formación continua y cursos especializados
+-Además del entrenamiento inicial, Movistar brinda\n
+^ oportunidades de formación continua y cursos especializados\n
 ^ para mejorar tus habilidades y conocimientos.
 
 + [*] (reunion|junta) [*]
--Las reuniones de equipo se llevan a cabo regularmente para
-^ mantener una comunicación efectiva. Las fechas y detalles sé
+- Las reuniones de equipo se llevan a cabo regularmente para\n
+^ mantener una comunicación efectiva. Las fechas y detalles sé\n
 ^ publican en el calendario compartido del equipo.
 
 + [*] (turno nocturno) [*]
--Si trabajas en un turno nocturno, asegúrate de seguir las
-^ políticas y procedimientos específicos establecidos para
+- Si trabajas en un turno nocturno, asegúrate de seguir las\n
+^ políticas y procedimientos específicos establecidos para\n
 ^ garantizar un entorno seguro y eficiente.
 
 + [*] (licencia medica|permiso) [*]
--En caso de necesitar una licencia médica o permiso especial,
-^ comunícate con Recursos Humanos y sigue el proceso establecido
+- En caso de necesitar una licencia médica o permiso especial,\n
+^ comunícate con Recursos Humanos y sigue el proceso establecido\n
 ^ para garantizar una gestión adecuada.
 
 + [*] (redes sociales) [*]
--Sigue las redes sociales oficiales de Movistar para obtener
-^ noticias, actualizaciones y oportunidades exclusivas de la
+- Sigue las redes sociales oficiales de Movistar para obtener\n
+^ noticias, actualizaciones y oportunidades exclusivas de la\n
 ^ empresa.
 
 + [*] (feedback|opinion) [*]
--Valoramos tu opinión. Si tienes sugerencias o comentarios,
-^ puedes proporcionar feedback a través del sistema de
+- Valoramos tu opinión. Si tienes sugerencias o comentarios,\n
+^ puedes proporcionar feedback a través del sistema de\n
 ^ retroalimentación en el portal interno.
 
 + [*] (proyecto especial|iniciativa) [*]
--Participa en proyectos especiales e iniciativas para
-^ contribuir al crecimiento y éxito de Movistar. Mantente
+- Participa en proyectos especiales e iniciativas para\n
+^ contribuir al crecimiento y éxito de Movistar. Mantente\n
 ^ informado sobre las oportunidades disponibles.
 
 + [*](planes|ofertas|servicios) [*]
--En Movistar, ofrecemos una variedad de planes y servicios para 
-^ adaptarnos a tus necesidades. Puedes explorar nuestras
-^ últimas ofertas en nuestro sitio web o contactar a nuestro
+- En Movistar, ofrecemos una variedad de planes y servicios para \n
+^ adaptarnos a tus necesidades. Puedes explorar nuestras\n
+^ últimas ofertas en nuestro sitio web o contactar a nuestro\n
 ^ servicio al cliente para obtener información detallada.
 
 + [*](cobertura|disponibilidad) [*]
--Nuestra red de cobertura está diseñada para brindarte la mejor
-^ experiencia. Verifica la disponibilidad de nuestros servicios
-^ en tu área o descubre más sobre nuestra cobertura en el mapa
+- Nuestra red de cobertura está diseñada para brindarte la mejor\n
+^ experiencia. Verifica la disponibilidad de nuestros servicios\n
+^ en tu área o descubre más sobre nuestra cobertura en el mapa\n
 ^ de cobertura en nuestro sitio web.
 
 + [*](soporte tecnico|ayuda tecnica) [*]
--Si necesitas asistencia técnica, nuestro equipo de soporte
-^ está disponible para ayudarte. Puedes comunicarte con
-^ nosotros a través de nuestro chat en línea o llamar a nuestro
-^ servicio de atención al cliente para resolver cualquier
+-Si necesitas asistencia técnica, nuestro equipo de soporte\n
+^ está disponible para ayudarte. Puedes comunicarte con\n
+^ nosotros a través de nuestro chat en línea o llamar a nuestro\n
+^ servicio de atención al cliente para resolver cualquier\n
 ^ problema técnico que puedas enfrentar.
 
 + [*](promociones|descuentos) [*]
--Descubre las últimas promociones y descuentos disponibles para
-^ clientes de Movistar. Mantente al tanto de nuestras ofertas
-^ especiales para aprovechar al máximo tus servicios.
+-Descubre las últimas promociones y descuentos disponibles para\n
+^ clientes de Movistar. Mantente al tanto de nuestras ofertas\n
+^ especiales para aprovechar al máximo tus servicios.\n
 
 + [*](portabilidad|cambio de plan) [*]
--Si estás pensando en cambiar tu plan o portar tu número a
-^ Movistar, podemos guiarte a través del proceso. Obtén
-^ información sobre los pasos necesarios y los beneficios de
+-Si estás pensando en cambiar tu plan o portar tu número a\n
+^ Movistar, podemos guiarte a través del proceso. Obtén\n
+^ información sobre los pasos necesarios y los beneficios de\n
 ^ unirte a Movistar.
 
 + [*](cultura|cultura empersarial)[*]
@@ -219,128 +209,138 @@
 ^ 1. En nuestra empresa, fomentamos la innovación y la creatividad.\n
 ^ 2. Creemos en el poder del trabajo en equipo.\n
 ^ 3. La satisfacción del cliente es nuestra prioridad.\n
-^ 4. Nos comprometemos a apoyar el desarrollo profesional de nuestros empleados\n
-^ 5. Nos comprometemos a apoyar el desarrollo profesional de nuestros empleados\n
-^ 6. Nos comprometemos a apoyar el desarrollo profesional de nuestros empleados\n
+^ 4. Nos comprometemos a apoyar el desarrollo profesional de nuestros \n
+^ empleados\n
+^ 5. Nos comprometemos a apoyar el desarrollo profesional de nuestros 
+^ empleados\n
+^ 6. Nos comprometemos a apoyar el desarrollo profesional de nuestros 
+^ empleados\n
 
-+ [*] (preparacion entrevista|consejos|idoneidad) [*]
-- Antes de la entrevista, es crucial prepararse adecuadamente.
-^ Asegúrate de conocer la empresa, practica respuestas a preguntas comunes
-^ y destaca experiencias que demuestren tu idoneidad para el puesto.
-^ Estos consejos te ayudarán a destacar durante el proceso de 
++ [*] (consejos) [*]
+- Antes de la entrevista, es crucial prepararse adecuadamente.\n
+^ Asegúrate de conocer la empresa, practica respuestas a preguntas comunes\n
+^ y destaca experiencias que demuestren tu idoneidad para el puesto.\n
+^ Estos consejos te ayudarán a destacar durante el proceso de \n
 ^ selección.
 
 + [*](preguntas tipicas|ejemplos|cuestionamientos)[*]
-- Durante una entrevista, es probable que te enfrentes a preguntas comunes.
-^ Prepárate con ejemplos concretos que demuestren tus habilidades y experiencias relevantes.
-^ Practicar respuestas a estos cuestionamientos te permitirá responder de manera efectiva y transmitir confianza.
+- Durante una entrevista, es probable que te enfrentes a preguntas comunes.\n
+^ Prepárate con ejemplos concretos que demuestren tus habilidades y experiencias\n
+^ relevantes.\n
+^ Practicar respuestas a estos cuestionamientos te permitirá responder de manera\n
+^ efectiva y transmitir confianza.
 
-+ [*](estrategias entrevista|tecnicas|abordar preguntas dificiles)[*]
-- Abordar preguntas difíciles con estrategias efectivas es fundamental.
-^ Utiliza técnicas que destaquen tus habilidades y experiencia,
-^ transformando desafíos en oportunidades para mostrar tu capacidad
++ [*](estrategias|tecnicas|abordar preguntas dificiles)[*]
+- Abordar preguntas difíciles con estrategias efectivas es fundamental.\n
+^ Utiliza técnicas que destaquen tus habilidades y experiencia,\n
+^ transformando desafíos en oportunidades para mostrar tu capacidad\n
 ^ de resolución de problemas y adaptabilidad.
 
-+ [*](investigacion empresa|conocimiento|valores)[*]
-- Antes de la entrevista, investiga a fondo la empresa. Conoce sus valores,
-^ proyectos clave y logros recientes. Demostrar este conocimiento no solo
-^ resalta tu interés, si no que también muestra que estás alineado con la cultura de la empresa.
++ [*](antes de la entrevista|valores)[*]
+- Antes de la entrevista, investiga a fondo la empresa. Conoce sus valores,\n
+^ proyectos clave y logros recientes. Demostrar este conocimiento no solo\n
+^ resalta tu interés, si no que también muestra que estás alineado con la cultura
+^ de la empresa.
 
-+ [*](habilidades experiencia|destacar|requisitos)[*]
-- Durante la entrevista, destaca habilidades y experiencias
-^ que coincidan con los requisitos del trabajo. Proporciona ejemplos
-^ específicos de proyectos anteriores que demuestren tu capacidad para enfrentar los desafíos del puesto.
++ [*](destacar)[*]
+- Durante la entrevista, destaca habilidades y experiencias\n
+^ que coincidan con los requisitos del trabajo. Proporciona ejemplos\n
+^ específicos de proyectos anteriores que demuestren tu capacidad para\n
+^ enfrentar los desafíos del puesto.
 
-+ [*](ejemplos logros|logros destacados|formato)[*]
-- Compartir ejemplos concretos de logros destacados es esencial.
-^ Utiliza un formato claro al describir cómo tus logros
-^ pasados están alineados con los requisitos del trabajo.
++ [*](ejemplos de mis logros|logros destacados)[*]
+- Compartir ejemplos concretos de logros destacados es esencial.\n
+^ Utiliza un formato claro al describir cómo tus logros\n
+^ pasados están alineados con los requisitos del trabajo.\n
 ^ Esto proporciona evidencia concreta de tu capacidad para lograr resultados positivos.
 
-+ [*](preguntas entrevistador|demostrar|final de la entrevista)[*]
-- Al final de la entrevista, haz preguntas al entrevistador para demostrar
-^ tu interés. Preguntas inteligentes y reflexivas sobre
-^ la empresa y el puesto pueden dejar una impresión duradera y
++ [*](preguntas al entrevistador|final de la entrevista)[*]
+- Al final de la entrevista, haz preguntas al entrevistador para demostrar\n
+^ tu interés. Preguntas inteligentes y reflexivas sobre\n
+^ la empresa y el puesto pueden dejar una impresión duradera y\n
 ^ mostrar que has hecho tu tarea.
 
-+ [*](manejo presion|calma|estrategias)[*]
-- Mantener la calma frente a situaciones de presión es clave. Desarrolla
-^ estrategias para manejar situaciones desafiantes, destacando cómo
-^ tu enfoque proactivo y habilidades de gestión te permiten enfrentar
++ [*](manejo de presion)[*]
+- Mantener la calma frente a situaciones de presión es clave. Desarrolla\n
+^ estrategias para manejar situaciones desafiantes, destacando cómo \n
+^ tu enfoque proactivo y habilidades de gestión te permiten enfrentar\n
 ^ presiones con tranquilidad.
 
-+ [*] (follow up entrevista|correo de agradecimiento|importancia) [*]
-- Después de la entrevista, envía un correo de agradecimiento.
-^ Destaca la importancia del seguimiento, expresando gratitud y
-^ reiterando tu interés en el puesto. Esto muestra profesionalismo
++ [*] (despues de la entrevista|correo de agradecimiento|importancia) [*]
+- Después de la entrevista, envía un correo de agradecimiento.\n
+^ Destaca la importancia del seguimiento, expresando gratitud y\n
+^ reiterando tu interés en el puesto. Esto muestra profesionalismo\n
 ^ y refuerza tu conexión con la empresa.
 
 + [*](desafios profesionales|superar desafios|situaciones dificiles)[*]
-- Hablar sobre cómo has superado desafíos profesionales anteriores es una
-^ oportunidad. Proporciona ejemplos de situaciones difíciles, enfatizando cómo aprendiste
+- Hablar sobre cómo has superado desafíos profesionales anteriores es una\n
+^ oportunidad. Proporciona ejemplos de situaciones difíciles, enfatizando cómo \n
+^ aprendiste
 ^ y creciste a partir de esas experiencias.
 
-+ [*](adaptabilidad flexibilidad |habilidades adaptativas|entrevista)[*]
-- Demuestra tu adaptabilidad y flexibilidad durante la entrevista. Destaca
-^ situaciones en las que te has adaptado con éxito a cambios
++ [*](adaptabilidad|flexibilidad)[*]
+- Demuestra tu adaptabilidad y flexibilidad durante la entrevista. Destaca\n
+^ situaciones en las que te has adaptado con éxito a cambios\n
 ^ y cómo estas habilidades te hacen un candidato valioso.
 
-+ [*](logros largo plazo|metas profesionales|destacar)[*]
-- Al compartir logros a largo plazo y metas profesionales, enfócate
-^ en aspectos que muestren tu compromiso con el crecimiento
-^ y desarrollo. Destaca cómo tus metas se alinean con la visión a largo plazo de la empresa.
++ [*](logros a largo plazo|metas profesionales)[*]
+- Al compartir logros a largo plazo y metas profesionales, enfócate\n
+^ en aspectos que muestren tu compromiso con el crecimiento\n
+^ y desarrollo. Destaca cómo tus metas se alinean con la visión a largo plazo 
+^ de la empresa.
 
-// Variables
 
 ! var preparacion = -
-^ aqui te muestro algunas pautas que debes seguir para ingresar a movistar:\n
+^ Aqui te muestro algunas pautas que debes seguir para ingresar a movistar:\n
 ^ 1. Comunicate con un asesor\n
 ^ 2. ejercicio o habilidades para comucacion con clientes\n
-^ 3. paciencia y comprencion ante posibles problemas\n
+^ 3. paciencia y comprencion ante posibles problemas
 
 ! var programarCita = -
-^ puedes programar una cita teniendo en cuenta lo siguiente\n
+^ Puedes programar una cita teniendo en cuenta lo siguiente\n
 ^ 1.Ingresar a nuestra pagina web movistar.com\solicitud\n
 ^ 2.Acercarte a nuestas oficinas en jr. Prado 138\n
-^ 3.Ingresar en este chat 'celular de supervisor', para comunicarte con un supervisor\n
+^ 3.Ingresar en este chat 'celular de supervisor', para comunicarte con un supervisor
 
 ! var horarioTrabajo = -
 ^ El horario de trabajo puede variar, pero a menudo incluye turnos rotativos\n
 ^ Part-Time: trabajando tiempo medio intercalando entre turno mañana y tarde.\n
 ^ Full-Time: un horario de tiempo completo abarcando hasta tiempos extra.\n
-^ Para mas información comunicarse al número del asesor para una entrevista\n
+^ Para mas información comunicarse al número del asesor para una entrevista
 
 ! var comision = -
 ^ Esto es depende de las ventas que tengas diarias\n
 ^ pero se podria dar un promedio de por cada venta concretada\n
-^ tendrias un 0.5% de ganancia.\n
+^ tendrias un 0.5% de ganancia.
 
 ! var requisitos = -
-^ 1. Contar con educación universitario en curso o carreras de administración y afines.\n
+^ 1. Contar con educación universitario en curso o carreras de \n
+^ administración y afines.\n
 ^ 2. Habilidades de comunicación.\n
 ^ 3. Sin experiencia previa.\n
 ^ 4. Habilidades de persuasión.\n
-^ 5. Disponibilidad horaria.\n
+^ 5. Disponibilidad horaria.
 
 ! var beneficios = -
-^ los beneficios son:
+^ Los beneficios son:
 ^ seguro medico, experiencia laboral\n
 ^ libertad de comunicacion entre trabajadores ante problemas,\n
-^ bono, liquidacion.\n
+^ bono, liquidacion.
 
 ! var funciones = -
 ^ Tus funciones como operador seran las siguientes:\n
 ^ 1. Recepcionar llamadas.\n
 ^ 2. Realizar seguimiento a tus ventas.\n
 ^ 3. Ser proactivo y convincente a la hora de gestionar tus llamadas.\n
-^ 4. Ser puntual y ser decisivo en la toma de decisiones. \n
+^ 4. Ser puntual y ser decisivo en la toma de decisiones. 
 
 ! var solicitar = -
 ^ Para solicitar un trabajo en el call center de Movistar, debes:\n
 ^ 1. Visitar nuestro sitio web: https://ayuda.movistar.com.ar/pregunta/quiero-trabajar-en-movistar.html \n
-^ 2. Dar click en "esta pagina", en el apartado de : Conoce las oportunidades laborales de Movistar en esta página. \n
+^ 2. Dar click en "esta pagina", en el apartado de : Conoce las oportunidades\n
+^ laborales de Movistar en esta página. \n
 ^ 2. Busca tu puesto por palabra clave y/o ciudad. \n
-^ 3. Allí encontrarás información sobre cómo enviar tu solicitud en línea.\n
+^ 3. Allí encontrarás información sobre cómo enviar tu solicitud en línea.
 
 ! var condicionPuesto = -
 ^ Generalmente se requieren los siguientes requisitos para el puesto de supervisor de call center:\n
@@ -348,4 +348,4 @@
 ^ 2. Habilidades de liderazgo y capacidad para gestionar equipos.\n
 ^ 3. conocimiento de metricas de redimiento y seguimiento de llamadas.\n
 ^ 4. hablidad para solucionar confictos y toma de decisiones inmediatas.\n
-^ 5. comunicacion efectiva y habiliades de capacitacion con el equipo.\n
+^ 5. comunicacion efectiva y habiliades de capacitacion con el equipo.
