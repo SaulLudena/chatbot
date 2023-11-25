@@ -299,25 +299,58 @@
 ^ de la empresa.
 
 + [*](ventas debo realizar|ventas a realizar|cuantas ventas)[*]
-^ Plan Éxito Total: Comisiones mensuales del 5% sobre el total de ventas.\n
-^ Bonificación adicional del 2% por alcanzar o superar un objetivo mensual de $10,000 \n
-^ en ventas.\n
+- Plan Éxito Total: Comisiones mensuales del 5% sobre el total de ventas.\n
+^ Bonificación adicional del 2% por alcanzar o superar un objetivo\n
+^ mensual de s/.10,00 en ventas.\n
 ^ Incentivo del 1% por mantener una tasa de retención de clientes superior al 90%.\n
-^ Plan Dinámico Plus: Comisiones escalonadas, comenzando con un 3% para las primeras\n 
-^ $5,000 en ventas y aumentando al 5% para ventas superiores a $10,000.\n
-^ Bono adicional del 1.5% por la venta de servicios adicionales, como paquetes premium y\n
-^ accesorios.\n
-^ Participación en programas de capacitación con bonificaciones de hasta $500 por completar \n
-^ con éxito cursos específicos.\n
-^ Plan Lealtad Ganadora: Comisiones recurrentes del 4% por clientes que renuevan\n
-^ contratos o actualizan servicios.\n
-^ Bonificación del 1.5% por mantener una calificación de satisfacción del cliente superior al 95%.\n
+^ Plan Dinámico Plus: Comisiones escalonadas, comenzando con un\n
+^ 3% para las primeras $5,000 en ventas y aumentando al 5% para ventas\n
+^ superiores a s/20,00.\n
+^ Bono adicional del 1.5% por la venta de servicios adicionales, como\n
+^ paquetes premium y accesorios.\n
+^ Participación en programas de capacitación con bonificaciones de hasta\n
+^ s/.500 por completar con éxito cursos específicos.\n
+^ Plan Lealtad Ganadora: Comisiones recurrentes del 4% por\n
+^ clientes que renuevan contratos o actualizan servicios.\n
+^ Bonificación del 1.5% por mantener una calificación de satisfacción\n
+^ del cliente superior al 95%.\n
 ^ $50 de bono por cada nuevo cliente referido que completa una compra.\n
-^ Plan Innovador Pro: Comisiones especiales del 6% por la venta de productos y servicios\n 
-^ innovadores.\n
-^ Recompensa adicional del 3% por ser el líder en la introducción de nuevas ofertas a los clientes.\n
-^ Acceso exclusivo a incentivos con bonificaciones de hasta $1,000 para promover servicios de última\n
-^ generación.
+^ Plan Innovador Pro: Comisiones especiales del 6% por la venta de\n
+^ productos y servicios innovadores.\n
+^ Recompensa adicional del 3% por ser el líder en la introducción de\n
+^ nuevas ofertas a los clientes.\n
+^ Acceso exclusivo a incentivos con bonificaciones de hasta $1,000\n
+^ para promover servicios de última generación.\n
+
++ [*](productos|conocer producto|producto|ver producto)[*]
+- +------------------------------------------------------------+\n
+^ | Producto                        | Precio (en soles)        |\n
+^ -------------------------------------------------------------+\n
+^ | Plan de Telefonía Móvil         | S/ 130 al mes            |\n
+^ | "Todo en Uno"                                              |\n
+^ +------------------------------------------------------------+\n
+^ | Banda Ancha Residencial         | S/ 180 al mes            |\n
+^ | "UltraSpeed"                                               |\n
+^ +------------------------------------------------------------+\n
+^ | Paquete Combinado               | S/ 270 al mes            |\n
+^ | "Familia Conectada"                                        |\n
+^ +------------------------------------------------------------+\n
+^ | Teléfono Inteligente            | S/ 1600 o S/ 70 al mes   |\n
+^ | "TechPro X" (financiamiento)                               |\n
+^ +------------------------------------------------------------+\n
+^ | Plan Empresarial                 | Varía, a partir de      |\n
+^ | "Conectividad Total"            | S/ 450 al mes            |\n
+^ +------------------------------------------------------------+\n
+^ | Accesorios Premium para Móviles |                          |\n
+^ | - Auriculares inalámbricos      | S/ 250                   |\n
+^ | - Cargador rápido               | S/ 120                   |\n
+^ | - Funda protectora resistente   | S/ 60                    |\n
+^ +------------------------------------------------------------+\n
+^ | Servicio de Atención al Cliente | Gratis con cualquier     |\n
+^ | "Siempre Conectado"             | plan de Movistar         |\n
+^ +------------------------------------------------------------+\n
+
+
 
 
 ! var preparacion = -
@@ -341,7 +374,7 @@
 ! var comision = -
 ^ Esto es depende de las ventas que tengas diarias\n
 ^, pero se podría dar un promedio de por cada venta concretada\n
-^ tendrías un 0.5% de ganancia.\n
+^ tendrías un 5% de ganancia.\n
 
 ! var requisitos = -
 ^ 1. Contar con educación universitaria en curso o carreras de administración y afines.\n

@@ -1,7 +1,6 @@
-from rivescript import RiveScript
+from riverscript import RiveScript
 from tkinter import *
 from tkinter import ttk
-
 class Chat:
     def __init__(self, ventana):
         self.bot = RiveScript()
