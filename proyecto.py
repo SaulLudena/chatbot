@@ -1,4 +1,4 @@
-from riverscript import RiveScript
+from rivescript import RiveScript
 from tkinter import *
 from tkinter import ttk
 class Chat:

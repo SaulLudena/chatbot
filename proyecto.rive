@@ -1,7 +1,7 @@
 // Reglas
 + hola
-- ¡Hola! ¿En qué puedo ayudarte?
-- ¡Hola!, soy un robot ¿En qué puedo ayudarte?
+- ¡Hola! ¿En qué puedo ayudarte? 😀
+- ¡Hola!, soy un robot ¿En qué puedo ayudarte? 😀
 
 + hey
 @ hola
@@ -299,31 +299,24 @@
 ^ de la empresa.
 
 + [*](ventas debo realizar|ventas a realizar|cuantas ventas)[*]
-- Plan Éxito Total: Comisiones mensuales del 5% sobre el total de ventas.\n
-^ Bonificación adicional del 2% por alcanzar o superar un objetivo\n
-^ mensual de s/.10,00 en ventas.\n
-^ Incentivo del 1% por mantener una tasa de retención de clientes superior al 90%.\n
-^ Plan Dinámico Plus: Comisiones escalonadas, comenzando con un\n
-^ 3% para las primeras $5,000 en ventas y aumentando al 5% para ventas\n
-^ superiores a s/20,00.\n
-^ Bono adicional del 1.5% por la venta de servicios adicionales, como\n
-^ paquetes premium y accesorios.\n
-^ Participación en programas de capacitación con bonificaciones de hasta\n
-^ s/.500 por completar con éxito cursos específicos.\n
-^ Plan Lealtad Ganadora: Comisiones recurrentes del 4% por\n
-^ clientes que renuevan contratos o actualizan servicios.\n
-^ Bonificación del 1.5% por mantener una calificación de satisfacción\n
-^ del cliente superior al 95%.\n
-^ $50 de bono por cada nuevo cliente referido que completa una compra.\n
-^ Plan Innovador Pro: Comisiones especiales del 6% por la venta de\n
-^ productos y servicios innovadores.\n
-^ Recompensa adicional del 3% por ser el líder en la introducción de\n
-^ nuevas ofertas a los clientes.\n
-^ Acceso exclusivo a incentivos con bonificaciones de hasta $1,000\n
-^ para promover servicios de última generación.\n
+- +----------------------+----------------------+----------------------------------------+\n
+^ | Plan                 | Comisión Mensual (%) | Bonificaciones Adicionales | Otros Incentivos     |\n
+^ +----------------------+----------------------+-------------------------+-------------------------+\n
+^ | Éxito Total          | 5%                   | +2% por ventas > S/10,000 | +1% por retención>90%| \n
+^ +----------------------+----------------------+-------------------------+-------------------------+\n
+^ | Dinámico Plus        | Escalonado           | +1.5% por servicios      | Hasta S/500 por       |\n
+^ |                      |                      | adicionales               | capacitación          |\n
+^ +----------------------+----------------------+-------------------------+-------------------------+\n
+^ | Lealtad Ganadora     | 4%                   | +1.5% por satisfacción    | S/50 por referido     |\n
+^ |                      |                      | > 95%                     | nuevo                 |\n
+^ +----------------------+----------------------+-------------------------+-------------------------+\n
+^ | Innovador Pro        | 6%                   | +3% por liderazgo en      | Bonificaciones        |\n
+^ |                      |                      | innovación                | exclusivas            |\n
+^ +----------------------+----------------------+-------------------------+-------------------------+\n
 
-+ [*](productos|conocer producto|producto|ver producto)[*]
-- +------------------------------------------------------------+\n
+
++ [*](productos|conocer producto|producto|ver producto|producto)[*]
+- ---------------------------------------------------+\n
 ^ | Producto                        | Precio (en soles)        |\n
 ^ -------------------------------------------------------------+\n
 ^ | Plan de Telefonía Móvil         | S/ 130 al mes            |\n
@@ -338,7 +331,7 @@
 ^ | Teléfono Inteligente            | S/ 1600 o S/ 70 al mes   |\n
 ^ | "TechPro X" (financiamiento)                               |\n
 ^ +------------------------------------------------------------+\n
-^ | Plan Empresarial                 | Varía, a partir de      |\n
+^ | Plan Empresarial                | Varía, a partir de       |\n
 ^ | "Conectividad Total"            | S/ 450 al mes            |\n
 ^ +------------------------------------------------------------+\n
 ^ | Accesorios Premium para Móviles |                          |\n
