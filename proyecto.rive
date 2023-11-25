@@ -204,6 +204,15 @@
 ^ información sobre los pasos necesarios y los beneficios de\n
 ^ unirte a Movistar.
 
++ [*](portabilidad|cambio de plan) [*]
+-Si estás pensando en cambiar tu plan o portar tu número a\n
+^ Movistar, podemos guiarte a través del proceso. Obtén\n
+^ información sobre los pasos necesarios y los beneficios de\n
+^ unirte a Movistar.
+
+
+
+
 + [*](cultura|cultura empersarial)[*]
 - Te muestro los detalles de nuestra cultura empresarial:\n
 ^ 1. En nuestra empresa, fomentamos la innovación y la creatividad.\n
@@ -286,66 +295,85 @@
 + [*](logros a largo plazo|metas profesionales)[*]
 - Al compartir logros a largo plazo y metas profesionales, enfócate\n
 ^ en aspectos que muestren tu compromiso con el crecimiento\n
-^ y desarrollo. Destaca cómo tus metas se alinean con la visión a largo plazo 
+^ y desarrollo. Destaca cómo tus metas se alinean con la visión a largo plazo\n
 ^ de la empresa.
+
++ [*](ventas debo realizar|ventas a realizar|cuantas ventas)[*]
+^ Plan Éxito Total: Comisiones mensuales del 5% sobre el total de ventas.\n
+^ Bonificación adicional del 2% por alcanzar o superar un objetivo mensual de $10,000 \n
+^ en ventas.\n
+^ Incentivo del 1% por mantener una tasa de retención de clientes superior al 90%.\n
+^ Plan Dinámico Plus: Comisiones escalonadas, comenzando con un 3% para las primeras\n 
+^ $5,000 en ventas y aumentando al 5% para ventas superiores a $10,000.\n
+^ Bono adicional del 1.5% por la venta de servicios adicionales, como paquetes premium y\n
+^ accesorios.\n
+^ Participación en programas de capacitación con bonificaciones de hasta $500 por completar \n
+^ con éxito cursos específicos.\n
+^ Plan Lealtad Ganadora: Comisiones recurrentes del 4% por clientes que renuevan\n
+^ contratos o actualizan servicios.\n
+^ Bonificación del 1.5% por mantener una calificación de satisfacción del cliente superior al 95%.\n
+^ $50 de bono por cada nuevo cliente referido que completa una compra.\n
+^ Plan Innovador Pro: Comisiones especiales del 6% por la venta de productos y servicios\n 
+^ innovadores.\n
+^ Recompensa adicional del 3% por ser el líder en la introducción de nuevas ofertas a los clientes.\n
+^ Acceso exclusivo a incentivos con bonificaciones de hasta $1,000 para promover servicios de última\n
+^ generación.
 
 
 ! var preparacion = -
-^ Aqui te muestro algunas pautas que debes seguir para ingresar a movistar:\n
-^ 1. Comunicate con un asesor\n
-^ 2. ejercicio o habilidades para comucacion con clientes\n
-^ 3. paciencia y comprencion ante posibles problemas
+^ Aqui te muestro algunas pautas que debes seguir para ingresar a Movistar:\n
+^ 1. Comunícate con un asesor\n
+^ 2. Ejercicio o habilidades para comulación con clientes\n
+^ 3. Paciencia y comprensión ante posibles problemas\n
 
 ! var programarCita = -
 ^ Puedes programar una cita teniendo en cuenta lo siguiente\n
-^ 1.Ingresar a nuestra pagina web movistar.com\solicitud\n
-^ 2.Acercarte a nuestas oficinas en jr. Prado 138\n
-^ 3.Ingresar en este chat 'celular de supervisor', para comunicarte con un supervisor
+^ 1. Ingresar a nuestra página web movistar.com\solicitud\n
+^ 2. Acercarte a nuestras oficinas en jr. Prado 138\n
+^ 3. Ingresar en este chat 'celular de supervisor', para comunicarte con un supervisor\n
 
 ! var horarioTrabajo = -
 ^ El horario de trabajo puede variar, pero a menudo incluye turnos rotativos\n
-^ Part-Time: trabajando tiempo medio intercalando entre turno mañana y tarde.\n
+^ Part-Time: trabajando tiempo medio intercalando entre turno, mañana y tarde.\n
 ^ Full-Time: un horario de tiempo completo abarcando hasta tiempos extra.\n
-^ Para mas información comunicarse al número del asesor para una entrevista
+^ Para más información comunicarse al número del asesor para una entrevista\n
 
 ! var comision = -
 ^ Esto es depende de las ventas que tengas diarias\n
-^ pero se podria dar un promedio de por cada venta concretada\n
-^ tendrias un 0.5% de ganancia.
+^, pero se podría dar un promedio de por cada venta concretada\n
+^ tendrías un 0.5% de ganancia.\n
 
 ! var requisitos = -
-^ 1. Contar con educación universitario en curso o carreras de \n
-^ administración y afines.\n
+^ 1. Contar con educación universitaria en curso o carreras de administración y afines.\n
 ^ 2. Habilidades de comunicación.\n
 ^ 3. Sin experiencia previa.\n
 ^ 4. Habilidades de persuasión.\n
-^ 5. Disponibilidad horaria.
+^ 5. Disponibilidad horaria.\n
 
 ! var beneficios = -
 ^ Los beneficios son:
-^ seguro medico, experiencia laboral\n
-^ libertad de comunicacion entre trabajadores ante problemas,\n
-^ bono, liquidacion.
+^ seguro médico, experiencia laboral\n
+^ libertad de comunicación entre trabajadores ante problemas,\n
+^ bono, liquidación.\n
 
 ! var funciones = -
-^ Tus funciones como operador seran las siguientes:\n
+^ Tus funciones como operador serán las siguientes:\n
 ^ 1. Recepcionar llamadas.\n
 ^ 2. Realizar seguimiento a tus ventas.\n
 ^ 3. Ser proactivo y convincente a la hora de gestionar tus llamadas.\n
-^ 4. Ser puntual y ser decisivo en la toma de decisiones. 
+^ 4. Ser puntual y ser decisivo en la toma de decisiones. \n
 
 ! var solicitar = -
 ^ Para solicitar un trabajo en el call center de Movistar, debes:\n
 ^ 1. Visitar nuestro sitio web: https://ayuda.movistar.com.ar/pregunta/quiero-trabajar-en-movistar.html \n
-^ 2. Dar click en "esta pagina", en el apartado de : Conoce las oportunidades\n
-^ laborales de Movistar en esta página. \n
+^ 2. Dar clic en "esta página", en el apartado de: Conoce las oportunidades laborales de Movistar en esta página. \n
 ^ 2. Busca tu puesto por palabra clave y/o ciudad. \n
-^ 3. Allí encontrarás información sobre cómo enviar tu solicitud en línea.
+^ 3. Allí encontrarás información sobre cómo enviar tu solicitud en línea.\n
 
 ! var condicionPuesto = -
 ^ Generalmente se requieren los siguientes requisitos para el puesto de supervisor de call center:\n
 ^ 1. Experiencia previa en un puesto de agente de servicio al cliente.\n
 ^ 2. Habilidades de liderazgo y capacidad para gestionar equipos.\n
-^ 3. conocimiento de metricas de redimiento y seguimiento de llamadas.\n
-^ 4. hablidad para solucionar confictos y toma de decisiones inmediatas.\n
-^ 5. comunicacion efectiva y habiliades de capacitacion con el equipo.
+^ 3. Conocimiento de métricas de rendimiento y seguimiento de llamadas.\n
+^ 4. Habilidad para solucionar conflictos y toma de decisiones inmediatas.\n
+^ 5. Comunicación efectiva y habilidades de capacitación con el equipo.\n

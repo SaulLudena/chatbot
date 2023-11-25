@@ -16,7 +16,7 @@ class Chat:
 
         Label(marco, text="Respuestas").grid(row=0, column=0)
 
-        self.entRespuesta = Text(marco, width=110, height=30)
+        self.entRespuesta = Text(marco, width=112, height=30)
         self.entRespuesta.grid(row=0, column=1, padx=10, pady=10, ipady=60)
         self.entRespuesta.focus()
 
